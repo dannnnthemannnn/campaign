@@ -1,0 +1,72 @@
+.header {
+    background-image: url('assets/clouds.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Song Myung', serif;
+}
+
+.headshot-container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.headshot {
+    position: absolute;
+    height: 100%;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+}
+
+.american-flag {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.tagline {
+    text-transform: uppercase;
+    background: linear-gradient(to right, rgba(4, 36, 61, 1), rgba(4, 36, 61, 1), rgba(4, 36, 61, 1), rgba(4, 36, 61, 0));
+    color: #ffffff;
+    margin-left: -15px;
+    font-size: 29px;
+    text-align: center;
+    margin-top: 25px;
+    font-weight: 300;
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 25px;
+    height: 220px;
+    padding-right: 15px;
+}
+
+.county {
+    font-size: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-left: 130px;
+}
+
+.ribbon {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 10px;
+}
+
+.service {
+    font-size: 32px;
+    text-align: center;
+    color: rgba(4, 36, 61);
+    margin-top: 10px;
+}
