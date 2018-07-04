@@ -6,6 +6,10 @@
     background-size: cover;
 }
 
+.header-left {
+    margin-bottom: 20px;
+}
+
 body {
     font-family: 'Song Myung', serif;
 }
@@ -69,4 +73,102 @@ body {
     text-align: center;
     color: rgba(4, 36, 61);
     margin-top: 10px;
+}
+
+.stars-banner {
+    background-color: #04243d;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 45px;
+}
+
+.vote-support {
+    margin-top: 40px;
+    font-size: 32px;
+}
+
+.bring-balance {
+    margin-top: 5px;
+    font-size: 24px;
+}
+
+.stars-line {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.family-values {
+    background-color: #ffffff;
+    color: #04243d;
+}
+
+.family-photo-section .title {
+    margin-top: 24px;
+    font-size: 32px;
+}
+
+.family-photo-section .photo-container {
+    margin-top: 12px;
+}
+
+.family-photo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.family-photo-section .caption {
+    font-size: 18px;
+    margin-top: 22px;
+    line-height: 1.3;
+}
+
+.volunteer {
+    margin-top: 24px;
+    font-size: 32px;
+}
+
+.volunteer-email {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 16px;
+    font-size: 16px;
+    width: 50%;
+}
+
+.volunteer-photo-container {
+    display: inline-block;
+    width: 40%;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.volunteer-photo {
+    width: 100%;
+}
+
+.fiscal-responsibility-container {
+    background-color: #04243d;
+    height: 160px;
+}
+
+.fiscal-responsibility-container p {
+    position: absolute;
+    padding: 30px;
+    color: #ffffff;
+    font-size: 16px;
+    width: 60%;
+}
+
+.fiscal-american-flag {
+    position: absolute;
+    right: 15px;
+    height: 160px;
+}
+
+.fiscal-headshot {
+    position: absolute;
+    right: 15px;
+    height: 160px;
 }
