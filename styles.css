@@ -137,6 +137,10 @@ body {
     width: 50%;
 }
 
+.volunteer-section {
+    margin-bottom: 16px;
+}
+
 .volunteer-photo-container {
     display: inline-block;
     width: 40%;
@@ -171,4 +175,66 @@ body {
     position: absolute;
     right: 15px;
     height: 160px;
+}
+.grandparents {
+    color: #ffffff;
+    background-color: #04243d;
+}
+
+.grandparents-text {
+    margin-top: 24px;
+    font-size: 24px;
+}
+
+.grandparents-photo-contaner {
+    margin-top: 22px;
+}
+
+.grandparents-photo {
+    width: 100%
+}
+
+.grandparents-tagline {
+    margin-top: 16px;
+    margin-bottom: 80px;
+    font-size: 18px;
+}
+
+.franklin-family-values {
+    margin-top: 24px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.values {
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.values li {
+    margin-top: 16px;
+}
+
+.bottom-sign {
+    background-color: #FFFFFF;
+    height: 100px;
+}
+
+.footer {
+    background-color: #04243d;
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.footer-text {
+    margin-top: 35px;
+    margin-bottom: 16px;
+}
+
+.small-badge {
+    display: block;
+    margin-top: -25px;
+    margin-right: auto;
+    margin-left: auto;
 }
