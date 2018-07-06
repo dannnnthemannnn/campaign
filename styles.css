@@ -217,6 +217,10 @@ body {
     margin-top: 16px;
 }
 
+.facebook-link {
+    height: 100px;
+}
+
 .bottom-sign {
     background-color: #FFFFFF;
     height: 100px;
