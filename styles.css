@@ -179,11 +179,12 @@ body {
 .grandparents {
     color: #ffffff;
     background-color: #04243d;
+    padding-bottom: 60px;
 }
 
 .grandparents-text {
     margin-top: 24px;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 .grandparents-photo-contaner {
@@ -208,6 +209,7 @@ body {
 
 .values {
     font-size: 18px;
+    margin-top: 60px;
     margin-bottom: 16px;
 }
 
